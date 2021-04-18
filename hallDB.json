@@ -1,0 +1,69 @@
+{
+  "Rooms": [
+    {
+      "Room Name": "Workshop",
+      "Number of seats": 48,
+      "Amenities": [
+        "Air Conditioning",
+        "Mat floor",
+        "Pavillion",
+        "Speaker",
+        "Mic"
+      ],
+      "PricePerHour": 600
+    },
+    {
+      "Room Name": "Workshop +",
+      "Number of seats": 36,
+      "Amenities": [
+        "Air Conditioning",
+        "Mat floor",
+        "Pavillion",
+        "Speaker",
+        "Mic", 
+        "Open big windows"
+      ],
+      "PricePerHour": 800
+    },
+    {
+      "Room Name": "Workshop PRO",
+      "Number of seats": 24,
+      "Amenities": [
+        "Centralized Air Conditioning",
+        "Wood floor",
+        "Pavillion",
+        "Speaker",
+        "Mic", 
+        ""
+      ],
+      "Price/hour": 1000
+    },
+    {
+      "Room Name": "Corporate Company Meet",
+      "Number of seats": 24,
+      "Amenities": [
+        "Air Conditioning",
+        "Mat floor",
+        "Pavillion",
+        "Speaker",
+        "Mic", 
+        "Projector"
+      ],
+      "Price/hour": 1200
+    },
+    {
+      "Room Name": "Executive Business Meeting",
+      "Number of seats": 8,
+      "Amenities": [
+        "Cntralized Air Conditioning",
+        "Woorden floor",
+        "Pavillion",
+        "Speaker",
+        "Mic",
+        "Projector",
+        "Marble Table"
+      ],
+      "Price/hour": 2000
+    }
+  ]
+}
